@@ -1,6 +1,6 @@
 # Simple TODO Flutter & Dart
 
-Hellow.
+Hello.
 This project is a demo intended to help using hive simply and.
 
 ## Getting Started
