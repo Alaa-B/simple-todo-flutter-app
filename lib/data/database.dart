@@ -7,8 +7,7 @@ class ToDoDatabase {
 
   void createInitialList() {
     toDoList = [
-      ['do math', false],
-      ['complete execises', true]
+      ['todo example', false],
     ];
   }
 
